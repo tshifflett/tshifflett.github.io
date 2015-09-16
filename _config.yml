@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            TShifflett Github
 locale:           en_US
 url:
 
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Tim Shifflett
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: tim.shifflett
   google:
-    plus: #username
+    plus: tshiffle
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: tshifflett
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: timothy-shifflett
   xing: #username
   instagram: #username
   lastfm: #username
