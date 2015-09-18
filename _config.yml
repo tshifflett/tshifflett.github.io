@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            TShifflett Github
+title:            Tim's GitHUB Page
 locale:           en_US
 url:
 
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: Tim Shifflett
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "GIS guy stumbling through web development"
+  email: tshiffle@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: tim.shifflett
