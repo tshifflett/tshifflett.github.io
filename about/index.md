@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
+title: About Tim Shifflett
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: about_banner.png
+  credit: Tim Shifflett
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+In today's GIS world the lines between geographer and web developer are blurry. I've spent years of school and more years in my young career learning to be a geographer, but very little on web development. This blog will document my experiences learning how to combine geography and web development. Throughout the process I'll lean on others, make mistakes, and probably wish I just stuck with production GIS. At the end of the day I hope this blog helps others as they make the transition from geographer to something more. 
 
-## Minimal Mistakes is all about:
+## This blog will include:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Successes, failures, tips, and pitfalls to avoid.
+* My portfolio, eventually...
+* Links to helpful websites, tutorials, and resources.
+* My thoughts on current events, particularly as they deal with international development and aid. Geography, web development, and international aid are kind of an odd mix, but it's what I do. 
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
