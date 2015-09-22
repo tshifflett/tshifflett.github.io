@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Tim Shifflett
-  avatar: bio-photo.jpg
+  avatar: bio_pic.jpg
   bio: "GIS guy stumbling through web development"
   email: tshiffle@gmail.com
   disqus-shortname:
