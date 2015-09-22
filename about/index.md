@@ -18,4 +18,3 @@ In today's GIS world the lines between geographer and web developer are blurry. 
 * Links to helpful websites, tutorials, and resources.
 * My thoughts on current events, particularly as they deal with international development and aid. Geography, web development, and international aid are kind of an odd mix, but it's what I do. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
