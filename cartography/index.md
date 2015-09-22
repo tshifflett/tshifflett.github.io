@@ -4,7 +4,7 @@ title: Cartographic Design Tips
 modified: 2014-07-31T13:23:02.362000-04:00
 excerpt: "Cartographic design tips in the humanitarian setting."
 image:
-  feature: sample-image-3.jpg
+  feature: carto_banner.jpg
   credit: WeGraphics
 ---
 
@@ -19,3 +19,5 @@ image:
 
 ---
 ## Heading 3
+
+---
