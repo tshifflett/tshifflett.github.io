@@ -54,7 +54,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: tim.shifflett
   codepen: #username
 
 include: [".htaccess"]
