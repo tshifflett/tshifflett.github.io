@@ -1,23 +1,19 @@
----
 layout: page
-title: Cartographic Design Tips
-modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Cartographic design tips in the humanitarian setting."
-image:
-  feature: carto_banner.jpg
-  credit: Old City Sanaa, Yemen. Tim Shifflett
+title: Trying to integrate map in jekyll
 ---
+<div id="map">
 
-{% include _map_resume.html %}
+</div>
+
+<script>
+        var map = L.map('map').setView([34.00000, -118.260126], 14); 
+
+        mapLink =
+'<a href="http://openstreetmap.org">OpenStreetMap</a>'; L.tileLayer(
+'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: 'Map data &copy; ' + mapLink, maxZoom: 18, }).addTo(map);
 
 
-## Heading 1
+        var marker = L.marker([34.063298, -118.260126]) .addTo(map).bindPopup("<b>Blah Blah Blah</b><br /><a href='http://www.cnn.com'>Additional Information</a><br />").openPopup();
 
----
 
-## Heading 2
-
----
-## Heading 3
-
----
+</script>
